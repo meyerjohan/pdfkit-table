@@ -1,4 +1,4 @@
-declare module 'pdfkit-table' 
+declare module 'pdfkit-table-johan77' 
 {
 	import PDFDocument from 'pdfkit';
 
